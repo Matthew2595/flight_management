@@ -5,4 +5,4 @@ It is a project developed during the course on Data Base System.
 
 The project belogns to the authors, as reported in the frontspiece.
 
-Dedicated to the memory of our supervisor, Prof.\ Ing. Antonio Picariello.
+Dedicated to the memory of our supervisor, Prof. Ing. Antonio Picariello.
